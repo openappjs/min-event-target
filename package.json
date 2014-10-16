@@ -1,0 +1,19 @@
+{
+  "name": "min-event-target",
+  "version": "1.0.0",
+  "description": "a minimal browser EventTarget interface for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/openappjs/min-event-target.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/openappjs/min-event-target/issues"
+  },
+  "homepage": "https://github.com/openappjs/min-event-target"
+}
